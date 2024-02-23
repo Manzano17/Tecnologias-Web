@@ -28,9 +28,11 @@ body {
     .contenedor-grid {
         grid-template-columns: 1fr;
     }
+
     .lado-izquierdo {
         display: none;
     }
+
     .lado-derecho {
         margin-top: 50px;
     }
