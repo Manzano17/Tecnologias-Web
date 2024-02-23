@@ -25,6 +25,9 @@ body {
 }
 
 @media (max-width: 768px) {
+    .contenedor-grid {
+        grid-template-columns: 1fr;
+    }
     .lado-izquierdo {
         display: none;
     }
