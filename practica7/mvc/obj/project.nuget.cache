@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ba9pw9je4uctZPWfJJYse1WHMckD9+BwcD1820X32xNswgZqYSAmTvWAmXx09xVEaEqS3HXtLyZugiNo5ane8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Manza\\OneDrive\\Escritorio\\UV\\Octavo semestre\\Tecnologías web\\Practicas\\practica7\\mvc\\mvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Manza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Manza\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\Manza\\.nuget\\packages\\mysqlconnector\\2.3.5\\mysqlconnector.2.3.5.nupkg.sha512",
+    "C:\\Users\\Manza\\.nuget\\packages\\mysqlconnector.dependencyinjection\\2.3.5\\mysqlconnector.dependencyinjection.2.3.5.nupkg.sha512"
+  ],
+  "logs": []
+}
