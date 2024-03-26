@@ -1,0 +1,22 @@
+* {
+    color: green;
+}
+div{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red;
+}
+#bloque1{
+    background-color: aqua;
+}
+header {
+    border: 10px solid #000;
+    font-size: 2rem;
+}
+img {
+    border: 10px solid #ff0000;
+    padding: 5px 20px 50px 70px;
+    margin: auto;
+    display: block;
+}
+
+
